@@ -2,7 +2,10 @@
 
 This is a practice of auth for react native, by using firebase
 
-![authentication screenshot](https://github.com/joannexin/authentication/blob/master/assets/1.png)(https://github.com/joannexin/authentication/blob/master/assets/2.png)(https://github.com/joannexin/authentication/blob/master/assets/3.png)(https://github.com/joannexin/authentication/blob/master/assets/4.png)
+![authentication screenshot](https://github.com/joannexin/authentication/blob/master/assets/1.png)
+![authentication screenshot](https://github.com/joannexin/authentication/blob/master/assets/2.png)
+![authentication screenshot](https://github.com/joannexin/authentication/blob/master/assets/3.png)
+![authentication screenshot](https://github.com/joannexin/authentication/blob/master/assets/4.png)
 
 ## This is what I learnt
 
